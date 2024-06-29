@@ -52,19 +52,6 @@ There are two types of code elements which can be inserted in Markdown, the firs
 }
 ```
 
-#### JS
-
-```js
-// alertbar later
-$(document).scroll(function () {
-    var y = $(this).scrollTop();
-    if (y > 280) {
-        $('.alertbar').fadeIn();
-    } else {
-        $('.alertbar').fadeOut();
-    }
-});
-```
 
 #### Python
 

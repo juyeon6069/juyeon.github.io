@@ -20,16 +20,6 @@ jQuery(document).ready(function($){
       });
     }
 
-    // alertbar later
-    $(document).scroll(function () {
-        var y = $(this).scrollTop();
-        if (y > 280) {
-            $('.alertbar').fadeIn();
-        } else {
-            $('.alertbar').fadeOut();
-        }
-    });
-
 
     // Smooth on external page
     $(function() {
