@@ -1,9 +1,9 @@
 # Site
 name: "Juyeon Nam"
-title: "Juyeon Nam"
+title: "Blog"
 description: "Welcome to Juyeon Nam's Blog."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo.jpg'
+favicon: 'assets/images/logo.jpg'
 baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
